@@ -1,7 +1,11 @@
-# btools-qmake
+# Compile
+- UNIX
+	- `./configure`
+- Win
+	- `connfigure.bat`
 
-- Minimal necessary hand picked QMake source code files cloned from  of https://github.com/qt/qtbase
-- Dedicated binaries for latest release for each platform
+#### NOTE, once the below is done ignore the rest, the binary is under `./bin/qmake`
 
-> Choose a brach to see the QMake source code or see binary releases, compiled as open source license
-> Distributed under the same licenses as original repo, check those, not added here to avoid noise
+```
+Creating qmake............................Done.
+```
